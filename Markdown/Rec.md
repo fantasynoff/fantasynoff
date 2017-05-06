@@ -43,7 +43,7 @@ Sorted by Alphabet or Romaji.
  | Tables        | 
 | ------------- |
 | <font color=red>0-9</font> |
-| [(PS3)４２８ ～封鎖された渋谷で～](#ps3-428) |
+| [(PS3)４２８ ～封鎖された渋谷で～[J]](#ps3-428) |
 | [(PS3)４２８ ～封鎖された渋谷で～](#ps3-4f28) |
 
 
